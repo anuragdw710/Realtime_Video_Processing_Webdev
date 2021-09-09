@@ -1,0 +1,2 @@
+# Realtime_Video_Processing_Webdev
+Hollywood studios use green screens to create all kinds of incredible special effects. Your local weatherperson uses it to look like they’re standing in front of a cool weather map. You can learn the secret behind the effects by building a web application which captures a webcam video with a green screen and replaces it with a background video or an image of your choice.
